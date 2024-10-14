@@ -8,7 +8,7 @@
 
 - 💬 Ask me about: **Android, MEARN, Javascript**
 
-- 📫 How to reach me: **joao.figueiredosilva@protonmail.com**
+- 📫 How to reach me: **contact@joao-silva.pt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
