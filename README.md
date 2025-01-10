@@ -8,7 +8,7 @@
 
 - 💬 Ask me about: **Android, MEARN, Web Development, E-commerces, IOS Development**
 
-- 📫 How to reach me: **contact@joao-silva.pt**
+- 📫 How to reach me: **contact@joao-silva.pt** || <a href="https://joao.silva.pt"> **joao-silva.pt**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
