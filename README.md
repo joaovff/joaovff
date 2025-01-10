@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **DevOps, Mobile Development** and **French**
 
-- 💬 Ask me about: **Android, MEARN, Javascript**
+- 💬 Ask me about: **Android, MEARN, Web Development, E-commerces, IOS Development**
 
 - 📫 How to reach me: **contact@joao-silva.pt**
 
@@ -65,5 +65,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovff&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joaovff" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovff&show_icons=true&locale=en&theme=tokyonight" alt="joaovff" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovff&&theme=tokyonight" alt="joaovff" /></p>
